@@ -1,6 +1,6 @@
 PUPPETEER
 ---------
-Use this in the code:
+Basic puppeteer props:
 ```
     const browser = await puppeteer.launch({
         headless: true,
