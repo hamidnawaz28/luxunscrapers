@@ -1,0 +1,5 @@
+{
+    "directory": "/root/scraper_nodejs/commands/completeScraps/",
+    "port": 8085,
+    "server": "s01"
+}
